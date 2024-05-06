@@ -1,0 +1,10 @@
+jst testing some commands. 
+
+git config --global user.email "bhargavnarla770@gmail.com"
+
+git config --global user.name "BhargavaRamuduNarla"
+
+git status
+git add .
+git statusgit commit -m "our commit description"
+git push
